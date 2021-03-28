@@ -6,4 +6,8 @@ public class HelloWorld {
       System.out.println("new method added..."); 
     }
     
+    public void newMethod2(){
+      System.out.println("new method2 added..."); 
+    }
+    
 }
