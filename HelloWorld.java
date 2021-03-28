@@ -9,6 +9,9 @@ public class HelloWorld {
     public void newMethod2(){
       System.out.println("new method2 added..."); 
     }
+     public void newMethod3(){
+      System.out.println("new method3 added..."); 
+    }
     
 }
 
