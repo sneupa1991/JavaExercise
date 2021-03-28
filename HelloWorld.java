@@ -12,5 +12,8 @@ public class HelloWorld {
      public void newMethod3(){
       System.out.println("new method3 added..."); 
     }
+    public void newMethod4(){
+      System.out.println("new method4 added..."); 
+    }
     
 }
