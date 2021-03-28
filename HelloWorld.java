@@ -14,5 +14,3 @@ public class HelloWorld {
     }
     
 }
-
-//final copy
